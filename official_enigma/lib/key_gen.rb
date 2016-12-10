@@ -1,6 +1,4 @@
 class KeyGen
-
-
   attr_accessor :key
 
   def initialize(key)
@@ -22,6 +20,16 @@ class KeyGen
     @key.count
   end
 
-  
+  def first_rotation
+    
+  end
 
+  def second_rotation
+  end
+
+  def third_rotation
+  end
+
+  def fourth_rotation
+  end
 end
